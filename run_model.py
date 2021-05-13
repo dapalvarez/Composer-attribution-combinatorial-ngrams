@@ -97,7 +97,7 @@ def my_loo(train_scores_, train_labels_, norm_, idf_, subl_):
 
 
 def run_all():
-    '''
+    
     run_models('regular', 'class', '1')
     run_models('regular', 'class', '2')
     run_models('regular', 'class', '3')
@@ -116,7 +116,6 @@ def run_all():
     run_models('combinatorial', 'midi', '1')
     run_models('combinatorial', 'midi', '2')
     run_models('combinatorial', 'midi', '3')
-    '''
     run_models('combinatorial', 'midi', '4')
     
     print('\n:)')
