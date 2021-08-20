@@ -85,7 +85,7 @@ def my_loo(train_scores_, train_labels_, norm_, idf_, subl_):
         number_feats = len(vectorizer.get_feature_names())
         sum_feats += number_feats
                 
-        model = SVC(kernel='linear', C=1000)
+        model = SVC(kernel='linear', C=10000)
         model.fit(train_data, train_labels)
         predictions=model.predict(test_data)
 
