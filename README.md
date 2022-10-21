@@ -13,7 +13,7 @@ python run_model.py
 
 # List of compositions 
 
-This info is taken from https://www.musical-style-recognition.net/?Datasets___PILOT-1.0 from the paper "Musical style recognition—a quantitative approach"
+This info is taken from https://www.musical-style-recognition.net/?Datasets___PILOT-1.0 from the paper "Musical style recognition—a quantitative approach" of Peter van Kranenburg and Eric Backer
 
 Of F.J. Haydn (string quartets):
 
