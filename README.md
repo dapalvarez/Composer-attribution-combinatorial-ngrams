@@ -11,7 +11,9 @@ python create_ngr.py
 
 python run_model.py
 
-# List of compositions (info taken from https://www.musical-style-recognition.net/?Datasets___PILOT-1.0)
+# List of compositions 
+
+This info is taken from https://www.musical-style-recognition.net/?Datasets___PILOT-1.0 from the paper "Musical style recognition—a quantitative approach"
 
 Of F.J. Haydn (string quartets):
 
